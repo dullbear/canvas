@@ -1,0 +1,14 @@
+body{color:#383838;}
+
+/* card */
+.card-bg{background-color: #fff000;}
+.card{background:url('../images/card_bg.jpg') no-repeat center top;height:174px;}
+.card-box{text-align: center;padding-top:145px;width:170px;}
+.card-i{font:normal 16px/28px '\5fae\8f6f\96c5\9ed1';}
+.card-area{width: 110px;height: 28px;}
+.card-item-span{font:16px/28px '\5fae\8f6f\96c5\9ed1';text-align: center;display: block;margin:10px 0;}
+.card-item{margin:10px;font: 14px/24px '\5fae\8f6f\96c5\9ed1';}
+.card-item h2{background:url('../images/card-title.jpg') no-repeat;font: 16px/30px '\5fae\8f6f\96c5\9ed1';color:#fff;margin-bottom: 5px;width:120px;text-align: center; }
+.card-item ul,.card-item p{padding-left:10px;}
+.Cf00{color:#f00;}
+#myCanvas{background:url('../images/canvas.jpg') no-repeat;margin-left:10px;top:145px;position: absolute;}
